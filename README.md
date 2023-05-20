@@ -1,1 +1,1 @@
-Please click on the file for more information.
+Please click on the file "titanic-ml.ipynb" for more information.
